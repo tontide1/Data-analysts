@@ -1,0 +1,50 @@
+LAB 05 - Thực hành Power BI
+
+Làm nhóm 1-2 sv / nhóm
+
+1. Chọn một bộ dữ liệu bất kỳ từ internet.
+	- Mô tả dữ liệu mà bạn có.
+	- Mô tả mục tiêu nghiên cứu của bạn với bộ dữ liệu
+
+2. Sử dụng Power BI kết nối dữ liệu (từ file)
+
+3. Biến đổi hoặc làm sạch dữ liệu với Power BI. Xử lý khi
+	- Dữ liệu trùng
+	- Dữ liệu thiếu
+
+4. Vẽ biểu đồ và tạo một Dashboard với Power BI
+
+5. Xây dựng một model đơn giản với Power BI (linear regression...)
+
+5. Chia sẻ report / Dashboard kết quả bằng Power BI services
+
+6. Thử bỏ file dữ liệu của bạn vào một Hệ quản trị CSDL bất kỳ (sqlite, MS.SQL Server, PosgreSQL...) 
+
+----------------------------------------------------------------------------------
+NỘP BÀI
+	- Đại diện một sv trong nhóm nộp bài
+	- Lưu kết quả vào file word. Cú pháp đặt tên: <stt>_<ten-project>.docx
+	- Trong báo cáo chứa kết quả và link đến services của bạn.
+
+----------------------------------------------------------------------------------
+Tham khảo
+	- Get data
+		https://learn.microsoft.com/en-us/training/modules/get-data-power-bi/
+	
+	- Clean, transform, and load data in Power BI
+		https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/
+	
+	- Choose a model
+		https://learn.microsoft.com/en-us/training/modules/choose-power-bi-model-framework/
+
+	- Report
+		https://learn.microsoft.com/en-us/training/modules/power-bi-effective-reports/
+		
+	- Dashboard
+		https://learn.microsoft.com/en-us/training/modules/create-dashboards-power-bi/
+
+	- Publish & Share
+		https://learn.microsoft.com/en-us/training/modules/publish-share-power-bi/
+
+	-  Others
+		https://learn.microsoft.com/en-us/training/browse/?products=power-bi&roles=data-analyst

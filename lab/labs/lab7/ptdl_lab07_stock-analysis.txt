@@ -1,0 +1,13 @@
+LAB 07 - Stock Analysis
+
+Sinh viên đọc hướng dẫn phân tích chuỗi thời gian tại file pdf
+
+----------------------------------------------------------------------------------
+Bài tập
+	- No homework this week.
+	- Need to Understand every steps in pdf documents
+	- Try these techniques in your data:
+		1. Moving Average
+		2. Weighted Moving Average
+		3. Exponential Smoothing
+----------------------------------------------------------------------------------
